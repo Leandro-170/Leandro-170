@@ -1,7 +1,7 @@
 It's me! \
 I code and draw. \
 I like C and C++. \
-Brazilian, knower of english and learner of japanese. \
+Brazilian, knower of english and learner of japanese.
 
 僕だよ！ \
 開発したり描きたりする。 \
